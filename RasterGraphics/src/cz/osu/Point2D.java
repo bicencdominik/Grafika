@@ -4,6 +4,8 @@ import java.awt.*;
 
 public class  Point2D {
 
+	// mato je kokot
+
     public double[] vector;
 
     public Point2D(){
